@@ -30,6 +30,10 @@ const styles = StyleSheet.create({
     container:{
         backgroundColor: '#ff4500',
         paddingTop: StatusBarHeight,
+        flexDirection: 'row',
+        paddingStart: 16,
+        paddEnd: 16,
+        paddingBottom: 44,
     }
 })
 
